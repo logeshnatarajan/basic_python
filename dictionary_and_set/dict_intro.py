@@ -19,7 +19,7 @@ vechicles["star"] = "lockracer"
 vechicles["toy"] = "glider"
 for key in vechicles:
     print(key, vechicles[key], sep=" : ")
-print("!111111111111111111111111111111")
+print("!1111111111111111111111111111")
 vechicles["virago"] = "new yamaha"
 for key, val in vechicles.items():  # MORE EFFICIENT
     print(key, val, sep=" : ")

@@ -2,7 +2,7 @@ vechicles = {
     'dream': 'honda 250',
     'roadster': 'bmw r1100',
     "er5": "kawasaki er5",
-    "virago": "yamaha xt650"
+    "virago": "yamaha xt750"
 }
 my_car = vechicles["dream"]
 print(my_car)

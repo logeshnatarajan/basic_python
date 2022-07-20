@@ -4,7 +4,7 @@ vechicles = {
     "er5": "kawasaki er5",
     "virago": "yamaha xt750"
 }
-my_car = vechicles["dreams"]
+my_car = vechicles["dream"]
 print(my_car)
 my = vechicles["virago"]  # INDEXING RETURNS KEY ERROR WHEN KEY IS WRONG (INDEXING IS FASTER THAN GET)
 # BUT USE ONLY U KNOW KEY
